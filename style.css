@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* .ligth-box{
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    border: 2px solid black;
+    /* background-image: url(imges/Of.jpg);
+    background-image: url(imges/On.jpg); 
+}*/
+button{
+    padding: 40px 100px;
+    margin-right: 20px;
+    margin-top: 40px;
+    font-size: 38px;
+
+}
+image {
+    width: 200px;
+}
+.of{
+    display: none;
+}
+.parent{
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
